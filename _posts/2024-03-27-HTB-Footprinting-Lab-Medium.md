@@ -7,6 +7,8 @@ categories: [HTB Çözüm]
 img_path: /assets/content-img/HTB-Footprinting-Lab-Medium/
 tags: [hackthebox]
 mermaid: true
+image:
+  path: /assets/content-img/HTB-Footprinting-Lab-Medium/preview1.jpg
 
 ---
 
