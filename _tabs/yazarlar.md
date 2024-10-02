@@ -6,7 +6,6 @@ order: 5
 ### Yazar: İrem Damar
 **Ünvan:** Cyber Security Analyst
 ### Social Media
-- **Twitter**: [@iremdamar6](https://x.com/iremdamar6)
 - **LinkedIn**: [iremdamar06](https://www.linkedin.com/in/iremdamar06)
 - **Website**: [Websitesi](https://medium.com/@iremdamar0)
 
